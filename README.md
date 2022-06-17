@@ -1,7 +1,7 @@
 # PROJECT ASSUMPTIONS
 1. Pretrained model can be use
 1. Groovae 4bar config is used
-1. The dataset of Groovae 4bar is downloaded using "tsds_name" in `config.py` 
+1. The dataset of Groovae 4bar is downloaded using `tsds_name` argument in `config.py` 
 1. You can deploy and use this program everywhere as long as docker is installed
 1. The output of this program is 4 (four) .mid files created by MusicVAE model
 
