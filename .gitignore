@@ -1,6 +1,6 @@
 /data
 /models
-results/
+**.mid
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
